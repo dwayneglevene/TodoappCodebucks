@@ -47,7 +47,7 @@ function TodoApp() {
             }
        setTaskList(newTaskList);
     }
-    return (<div className="todo">Todo App
+    return (<div className="todo">
 
 
         <input type="text" name="text" onChange={e => handleChange(e)} id="text" placeholder="Add Task" />
