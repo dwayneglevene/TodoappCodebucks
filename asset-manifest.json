@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TodoappCodebucks/static/css/main.00abd70f.chunk.css",
+    "main.js": "/TodoappCodebucks/static/js/main.2687c68f.chunk.js",
+    "main.js.map": "/TodoappCodebucks/static/js/main.2687c68f.chunk.js.map",
+    "runtime-main.js": "/TodoappCodebucks/static/js/runtime-main.c0690ba3.js",
+    "runtime-main.js.map": "/TodoappCodebucks/static/js/runtime-main.c0690ba3.js.map",
+    "static/js/2.fb5ada59.chunk.js": "/TodoappCodebucks/static/js/2.fb5ada59.chunk.js",
+    "static/js/2.fb5ada59.chunk.js.map": "/TodoappCodebucks/static/js/2.fb5ada59.chunk.js.map",
+    "index.html": "/TodoappCodebucks/index.html",
+    "precache-manifest.928149ef153da9dcbfaec8073d037447.js": "/TodoappCodebucks/precache-manifest.928149ef153da9dcbfaec8073d037447.js",
+    "service-worker.js": "/TodoappCodebucks/service-worker.js",
+    "static/css/main.00abd70f.chunk.css.map": "/TodoappCodebucks/static/css/main.00abd70f.chunk.css.map",
+    "static/js/2.fb5ada59.chunk.js.LICENSE.txt": "/TodoappCodebucks/static/js/2.fb5ada59.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TodoappCodebucks/static/media/background.4f646371.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0690ba3.js",
+    "static/js/2.fb5ada59.chunk.js",
+    "static/css/main.00abd70f.chunk.css",
+    "static/js/main.2687c68f.chunk.js"
+  ]
+}
